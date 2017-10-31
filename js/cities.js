@@ -1,0 +1,1 @@
+var cities=["Arequipa, AQ","Mollendo, AQ","Camaná, AQ","Puno,PU","Juliaca, JU"];
